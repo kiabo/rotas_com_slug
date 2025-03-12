@@ -12,6 +12,6 @@ class ProductSeeder extends Seeder
      */
     public function run(): void
     {
-        //
+        //os produtos são criados no City Seeder devido á necessidade do vínculo com a cidade
     }
 }
